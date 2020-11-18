@@ -35,6 +35,12 @@ public class Main {
 //
 //        System.out.println(dwa > szesc);
 //        System.out.println(szesc > dwa);
+//
+//        if (dwa > szesc) {
+//            System.out.println("Jest tak");
+//        } else {
+//            System.out.println("Nie jest tak");
+//        }
 
 //        3. zmienne  - każda zmienna musi mieć określony typ
 
@@ -55,8 +61,15 @@ public class Main {
 //
 //        System.out.println("Coś tam coś tam" + prawdaCzyFalsz);
 //
+//
+//        if(6 > 5) {
+//            System.out.println("Costam");
+//        }
+//
+//        System.out.println("Nie wiem");
+//
 //        String jakisTekst = "Jakiś tekst";
-
+//        System.out.println(jakisTekst);
 //        4. Stałe
 
 // stałe oznaczamy słówkiem final i piszemy dużymi literami
@@ -64,14 +77,14 @@ public class Main {
 //        final String IMIE = "Przemek";
 //        System.out.println("Twoje imie to " + IMIE);
 //
-//        IMIE = "Daria";
+//        IMIE = "Bartosz";
 
 //        5. Operatory: +, -, *, / , %
-        System.out.println("1 + 2 = " + (1 + 2));
-        System.out.println("1 - 2 = " + (1 - 2));
-        System.out.println("2 * 2 = " + (2 * 2));
-        System.out.println("9 / 3 = " + (9 / 3));
-        System.out.println("5 % 2 = " + (5 % 2));
+//        System.out.println("1 + 2 = " + (1 + 2));
+//        System.out.println("1 - 2 = " + (1 - 2));
+//        System.out.println("2 * 2 = " + (2 * 2));
+//        System.out.println("9 / 3 = " + (9 / 3));
+//        System.out.println("5 % 2 = " + (5 % 2));
 
 
     }
