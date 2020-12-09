@@ -16,5 +16,25 @@ public class Main {
         // Zadanie domowe:
         // Napisz program rozwiązujący równania kwadratowe (o ile istnieje)
         // https://www.matemaks.pl/rownania-kwadratowe-w-postaci-ogolnej.html
+
+        double a = 2;
+        double b = 3;
+        double c = 4;
+
+        System.out.println(a + "x**2 + " + b + "x + " + c + " = 0");
+
+        double delta = Math.pow(b, 2) + 4 * a * c;
+
+        if (delta > 0) {
+
+        }
+
+        if (delta == 0) {
+            System.out.println("Miejsce zerowe: " + (-b/(2*a)));
+        }
+
+        if (delta < 0) {
+
+        }
     }
 }
