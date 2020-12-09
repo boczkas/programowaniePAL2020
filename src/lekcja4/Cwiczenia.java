@@ -8,5 +8,6 @@ public class Cwiczenia {
 //        4. Sprawdź czy 6 jest równe 7
 //        5. Sprawdź czy 5 jest większe od 10
 //        6. Sprawdź czy 10 jest większe bądź równe 100
+//        6. Sprawdź czy 10 jest większe bądź równe 100 lub 3 jest mniejsze od 5
     }
 }
